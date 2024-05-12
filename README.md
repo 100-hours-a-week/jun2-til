@@ -7,6 +7,21 @@
 ✅ : `작성 완료`
 <br><br>
 
+### [ 5월 둘째주, 6주차 ] : React
+
+|Date|Subject|Status|
+|:---|:---|:---:|
+|📆 24.05.12|[📕 json-server 활용 방법](https://github.com/100-hours-a-week/jun2-til/blob/main/May./2024-05-12.md)|🖌️|
+
+<br>
+
+### [ 5월 첫째주, 5주차 ] : React
+
+|Date|Subject|Status|
+|:---|:---|:---:|
+
+<br>
+
 ### [ 4월 넷째주, 4주차 ] : Git, JS응용, 인증/인가 
 
 |Date|Subject|Status|
